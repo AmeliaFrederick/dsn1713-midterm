@@ -2,8 +2,14 @@
 
 /* Set custom variables here */
 
-
-
+:root {
+  --bs-body-bg: #f6f3ed;
+  --bs-body-bg-rbg: 246, 2434, 237;
+  --bs-primary: #2e483a;
+  --bs-primary-rgb: 46, 72, 58;
+  --bs-light: #f6f3ed;
+  --bs-light-rgb: 246, 243, 237;
+}
 
 
 .navbar-brand {
