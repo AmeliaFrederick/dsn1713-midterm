@@ -2,9 +2,19 @@
 
 /* Set custom variables here */
 
+:root {
+  --bs-primary: #2e483a;
+  --bs-bg-primary: #2e483a;
+}
+
 .navbar-brand {
   color: #F6F3ED;
 }
+
+#logo {
+  max-width: 40%;
+}
+
 
 body {
   font-family: "Sarala", sans-serif;
