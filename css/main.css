@@ -4,7 +4,14 @@
 
 :root {
   --bs-primary: #2e483a;
-  --bs-bg-primary: #2e483a;
+  --bs-primary-rgb: 46, 72, 58;
+  --bs-body-bg: #f6f3ed;
+  --bs-body-bg-rgb: 246, 243, 237;
+  --bs-light-color: #f6f3ed;
+}
+
+nav {
+  background-color: var(--bs-primary-color);
 }
 
 .navbar-brand {
