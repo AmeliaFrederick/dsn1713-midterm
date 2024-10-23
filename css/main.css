@@ -13,15 +13,12 @@
 
 nav {
   background-color: var(--bs-primary-color);
-  
 }
 
 .btn {
   background-color: var(--bs-primary);
   color: var(--bs-light);
 }
-
-
 
 .navbar-brand {
   color: #F6F3ED;
